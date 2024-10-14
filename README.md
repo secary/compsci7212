@@ -13,3 +13,4 @@ Stakeholders include individuals affected by hacking, NewsHack employees, legal 
 journalistic ethics organizations, and the general public.
 ### Mind map
 [Scenario 11](https://xmind.ai/hHn2wwvz?xid=ZNJ9XSPT)
+![mindmap](./assignment3/scenario11-Newshack%20case.png)
