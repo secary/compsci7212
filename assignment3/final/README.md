@@ -34,13 +34,13 @@ You should present your report *from the perspective of your role in the company
 
 You need to identify and discuss these and make recommendations for strategies the stakeholder/s could use to make an ethical decision.
 
-Your report is written to: For example, if you are reporting an ethical breach related to accounting practices, you might address your report to the `Chief Financial Officer (CFO) `or the `Head of Accounting`. The *person's name* and *position* should be clearly stated in your report.
+Your report is written to: For example, if you are reporting an ethical breach related to accounting practices, you might address your report to the `Chief Financial Officer (CFO) `or the `Head of Accounting`. The **person's name** and **position** should be clearly stated in your report.
 
-You can use articles from journals and newspapers, work from researchers, government websites to gather information on the contemporary ethical dilemmas. You should refer to a *minimum of 5 various credible sources*.
+You can use articles from journals and newspapers, work from researchers, government websites to gather information on the contemporary ethical dilemmas. You should refer to a **minimum of 5 various credible sources**.
 
-Your report, written in *plain English*, should be a *formal document* which outlines the current trends, examples (if relevant), any challenges or issues (if relevant), strategies for ethical decision making.
+Your report, written in **plain English**, should be a **formal document** which outlines the current trends, examples (if relevant), any challenges or issues (if relevant), strategies for ethical decision making.
 
-The *format* of your report should include:
+The **format** of your report should include:
 
 * cover letter (letter of transmittal)
 * report title page
