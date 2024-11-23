@@ -1,10 +1,37 @@
-# `Cover letter (*letter of transmittal*)`
+# Cover letter 
 
-# `Report title page`
+# The Ethical Violation Issues in Product's Environmentall Advertising
 
-# `Table of contents`
+# Table of contents
+- [Cover letter](#cover-letter)
+- [The Ethical Violation Issues in Product's Environmentall Advertising](#the-ethical-violation-issues-in-products-environmentall-advertising)
+- [Table of contents](#table-of-contents)
+- [Executive summary](#executive-summary)
+- [Introduction](#introduction)
+- [Discussion](#discussion)
+  - [The definition of the ethical violations](#the-definition-of-the-ethical-violations)
+  - [The scope and impacts of the ethical violations](#the-scope-and-impacts-of-the-ethical-violations)
+    - [Scope](#scope)
+    - [Impacts](#impacts)
+  - [Public’s Opinions](#publics-opinions)
+- [Recommendations](#recommendations)
+  - [Transparent communication with consumers](#transparent-communication-with-consumers)
+  - [Recall the troubled products as soon as possible](#recall-the-troubled-products-as-soon-as-possible)
+  - [Set up consumer’s complaint and feedback system](#set-up-consumers-complaint-and-feedback-system)
+  - [Make long-term commitments to sustainability](#make-long-term-commitments-to-sustainability)
+  - [Establish marketing oversights](#establish-marketing-oversights)
+  - [Improve the raw materials examination](#improve-the-raw-materials-examination)
+  - [Conduct regular environmental impact assessments](#conduct-regular-environmental-impact-assessments)
+  - [Enhance the ethical guidelines](#enhance-the-ethical-guidelines)
+- [Summary and Conclusions](#summary-and-conclusions)
+- [Reference list](#reference-list)
+- [Appendices](#appendices)
 
-# `Executive summary`
+# Executive summary
+This report would focus on the ethical violations in the company’s products environmental advertisement, which is false statements about using environmentally friendly materials to manufacture products but they are actually not using in advertising. These violations may lead to some risks of reputation, finance and compliance, which also can cause consumers trust backlash.
+
+Such ethical breaches, often referred to as "greenwashing," can raise consumers dissatisfaction and affect harmfully to the environment. For the further development of our company, I sincerely suggest that we should take some actions to prevent these consequences happening.
+
 
 # Introduction
 We have noticed that consumers’ demands for environmental-friendly products have been continually increasing in past years. As a large corporation established with environmental protection as our core competence, we are deeply committed to integrating sustainability into every aspect of our operations and we have a solid brand image based on the authenticity and reliability of our products. However, as the investigation of our company’s products deepens, I have found that part of the raw materials of our products are not meeting environmental standards. Which are obviously not the same as our advertisements claimed they are 100 percent environmental-friendly. Behaviors like such not only breach the principles of marketing integrity but also may cause legal risks and consumers’ trust backlash.
@@ -42,27 +69,27 @@ The impacts to corporation could be divided into three kinds of risks, which are
   * `Compliance risks`: The false statements in advertising have violated the advertising laws and may lead to investigations by regulatory authorities.
 
 Next, we still need to hold a discussion of the public’s opinions of false environmental advertising issues. It is necessary to understand the shift in our position regarding public trends before and after the issue.
-### Public’s Opinions
+## Public’s Opinions
 According to the industry data, global consumers’ attention to sustainable products has increased in recent years, which means their tolerance on using products with non-environmentally friendly materials are being less and less. Besides, false advertising which also known as greenwashing are leading to less public trust.(*Greenpeace Australia Pacific 2021*).
 
 Therefore, we should avoid manufacturing products with non-environmentally friendly materials, take damage control actions as communicating transparently with the consumers or recall the issued products to prevent the violations causing further harmful effects.
 
 # Recommendations
-* **Transparent communication with consumers**
+## Transparent communication with consumers
 As we mentioned earlier, we must take steps to prevent further harmful consequences resulting from these violations. We should acknowledge that some of the materials used in our products are not genuinely environmentally friendly, and we are sincerely concerned about the implications and potential outcomes of this issue. We should communicate all the details involved to demonstrate our sincere apologies for what we have done and to regain public confidence.
-* **Recall the troubled products as soon as possible**
+## Recall the troubled products as soon as possible
 Since we had manufactured the issued products, we should recall the products as many as we can and meantime as soon as possible. A one-minute delay in response could result in the death of a living creature due to our issue. And to be responsible for our consumers, we should recall the sold products and provide compensation to those who purchased our products but may lose trust once they learn the truth.
-* **Set up consumer’s complaint and feedback system**
+## Set up consumer’s complaint and feedback system
 We don’t know how many consumers have realized their purchased products have a non-environmental friendly issue. But we should require our customer service department to set up a complaint feedback mechanism to deal with the potential cases of this issue. For example, if a customer realizes that the product is harmful because of the materials and requests to be returned, we should response quickly with sincere apologies and issue a refund.
-* **Make long-term commitments to sustainability**
+## Make long-term commitments to sustainability
 We made a mistake in selecting materials, and to make amends, we must commit to long-term sustainability in our manufacturing processes. Sustainability is the foundation of our industries and without it there would be no more marketing or manufacturing. We must continue to seek raw materials which are really environmentally-friendly and recyclable. And we should keep our promise in front of our consumers.
-* **Establish marketing oversights**
+## Establish marketing oversights
 We should set up a work group of marketing oversight under the marketing department to avoid issues like false advertising and misleading. It is claimed that advertising ethics are important to a company’s long-term development (*Schauster 2018*). These oversight people should not be involved in advertising decisions but just give their opinions on the outcomes by their colleagues. Once the oversight team believes that there are false statements in our advertising we must remake our decisions in the earlier advertisement.
-* **Improve the raw materials examination**
+## Improve the raw materials examination
 After making the commitments, we should improve the examination of raw materials because we were using non environmentally friendly materials which proves that there must be a defect in our materials choice. A good way to recognize the materials is third-party testing agencies engagement. If we couldn’t examine the materials by our own, we could let the professionals to do it for us, which could reduce the harm of using non environmentally friendly materials.
-* **Conduct regular environmental impact assessments**
+## Conduct regular environmental impact assessments
 Besides, we could also conduct an assessment of our product’s environmental impact. Making sure not only the manufacturing processes are environmentally friendly is important but also the outcomes should not do harm to the environment. We should also engage a third-party agency to assess our products, ensuring transparency and demonstrating our commitment to never repeating the same mistake. If the assessment shows that our product is still not meeting the environmental standards, we should suspend production for rectification.
-* **Enhance the ethical guidelines**
+## Enhance the ethical guidelines
 After this case, what we learn is to avoid using non environmentally friendly materials in production. We could transform the case consequences into valuable lessons and add them into our ethical guidelines. And we must place a strong emphasis on using environmentally friendly materials in the future employees’ training to avoid the same mistake. 
 
 `Words: 1650`
@@ -83,3 +110,5 @@ Schauster, E 2018, ‘Ethics Versus Survival: The Relationship Between Advertisi
 Steiner, JF & Steiner, GA 2014, *Business, government, and society : A managerial perspective, text and cases*, Mcgraw-Hill Irwin, New York.  
 
 Torelli, R, Balluchi, F & Lazzini, A 2019, ‘Greenwashing and Environmental communication: Effects on stakeholders’ Perceptions’, *Business Strategy and the Environment*, vol. 29, no. 2, pp. 407–421.
+
+# Appendices
