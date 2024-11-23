@@ -30,7 +30,7 @@ You should use the ethical breach that you’ve found to **define the area and t
 
 *To define the area and scope of the breach, you would identify the specific ethical principle that is being violated, in this case, truthfulness and honesty in advertising. You would also determine the extent of the breach, such as the number of products affected and the impact on consumers and the environment. This would allow you to clearly articulate the problem and the potential consequences of the breach.*"
 
-You should present your report *from the perspective of your role in the company* ('persona') and write it in a way that will allow more senior management to understand the issue and, thus, take action.
+You should present your report **from the perspective of your role in the company ('persona')** and write it in a way that will allow more senior management to understand the issue and, thus, take action.
 
 You need to identify and discuss these and make recommendations for strategies the stakeholder/s could use to make an ethical decision.
 
