@@ -1,5 +1,5 @@
 # Weighting, Due Date & Word Limit
-This assessment is worth 20% of your overall grade.
+*This assessment is worth 20% of your overall grade.*
 
 `Due date: Monday, 25th November 5pm (Week 13)`
 
@@ -51,7 +51,8 @@ The *format* of your report should include:
 * recommendations
 * summary and conclusions
 * reference list
-* appendices (if any).
+* appendices (if any).  
+  
 Include a word count at the end of your Recommendations section.` Do not include` your [letter of transmittal](https://www.indeed.com/career-advice/career-development/letter-of-transmittal) to an external site., cover page, executive summary, table of contents, references or appendices in your word count.
 
  
@@ -69,6 +70,7 @@ You can record on your mobile phone or your laptop and upload video to MyUni Ass
 * your role and perspective
 * your audience
 * the case/dilemma 
+
 `Review` your initial research you conducted for Assignment 3 Parts 1, 2 and 3. Sources you've used may be useful for this task too.
 
 `Plan` your work:
