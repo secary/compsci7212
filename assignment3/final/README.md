@@ -26,9 +26,9 @@ You are a ***‘whistle-blower’*** for an ethical issue you want to report to 
 
 You should use the ethical breach that you’ve found to **define the area and the scope of the breach**.
 
-"Let's say you work for a company that manufactures products that are marketed as environmentally friendly. However, you notice that some of the materials used in the products are not actually environmentally friendly and the company is making false claims in their marketing.
+"*Let's say you work for a company that manufactures products that are marketed as environmentally friendly. However, you notice that some of the materials used in the products are not actually environmentally friendly and the company is making false claims in their marketing.*
 
-To define the area and scope of the breach, you would identify the specific ethical principle that is being violated, in this case, truthfulness and honesty in advertising. You would also determine the extent of the breach, such as the number of products affected and the impact on consumers and the environment. This would allow you to clearly articulate the problem and the potential consequences of the breach."
+*To define the area and scope of the breach, you would identify the specific ethical principle that is being violated, in this case, truthfulness and honesty in advertising. You would also determine the extent of the breach, such as the number of products affected and the impact on consumers and the environment. This would allow you to clearly articulate the problem and the potential consequences of the breach.*"
 
 You should present your report *from the perspective of your role in the company* ('persona') and write it in a way that will allow more senior management to understand the issue and, thus, take action.
 
