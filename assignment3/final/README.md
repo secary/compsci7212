@@ -53,7 +53,7 @@ The **format** of your report should include:
 * reference list
 * appendices (if any).  
   
-Include a word count at the end of your Recommendations section.` Do not include` your [letter of transmittal](https://www.indeed.com/career-advice/career-development/letter-of-transmittal) to an external site., cover page, executive summary, table of contents, references or appendices in your word count.
+Include a word count at the end of your Recommendations section.` Do not include` your [letter of transmittal to an external site.](https://www.indeed.com/career-advice/career-development/letter-of-transmittal), cover page, executive summary, table of contents, references or appendices in your word count.
 
  
 
