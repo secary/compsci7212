@@ -52,6 +52,7 @@ Secary Ma
 - [Summary and Conclusions](#summary-and-conclusions)
 - [Reference list](#reference-list)
 - [Appendices](#appendices)
+  - [Pitch Slides](#pitch-slides)
 
 <div STYLE="page-break-after: always;"></div>
 
@@ -141,3 +142,4 @@ Steiner, JF & Steiner, GA 2014, *Business, government, and society : A manageria
 Torelli, R, Balluchi, F & Lazzini, A 2019, ‘Greenwashing and Environmental communication: Effects on stakeholders’ Perceptions’, *Business Strategy and the Environment*, vol. 29, no. 2, pp. 407–421.
 
 # Appendices
+## Pitch Slides
