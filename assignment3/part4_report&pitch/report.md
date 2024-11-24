@@ -1,10 +1,36 @@
 # Cover letter 
+Secary Ma  
+Data Anaylyst  
+22 Nov 2024  
 
-# The Ethical Violation Issues in Product's Environmentall Advertising
+John le Blanc  
+Chief Executive Officer  
+
+Antony Cox  
+Chief Marketing Officer  
+
+Dear Mr. John le Blanc and Mr. Antony Cox,  
+
+This is Secary Ma, a data analyst from Product Operations Department. I have been realized that there might be some ethical violations in our product's advertisement. They are mainly about using environmentally friendly raw materials in our products. Since I am a user as our own product and I have been sick recently, so I went to my doctor's and found that th reason of my sickness is caused by our product, with a kind of harmful ingredient in it and which are not environmentally friendly. I have made further investgations and now I belive that we are using false statements in our advertisement which could do harm to both consumers and environment.  
+
+The attached file is a report about the ethical violations, including its scope and impacts, and also what actions could we take at now. As an employee and a consumer, I sincerely hope the company could put an emphasis on the ethical violations and take actions on behalf of all consumers' welfare.  
+
+I hope you guys could reply as soon as possible for this issue.  
+
+Yours sincerely,  
+Secary Ma  
+
+<div style="page-break-after: always;"></div>
+
+<div style="display: flex; justify-content: center; align-items: center; height: 500px; font-size: 3em; flex-shrink: 0;">
+    The Ethical Violation Issues in Product's Environmental Advertising
+</div>
+
+<div style="page-break-after: always; clear: both;"></div>
+
 
 # Table of contents
 - [Cover letter](#cover-letter)
-- [The Ethical Violation Issues in Product's Environmentall Advertising](#the-ethical-violation-issues-in-products-environmentall-advertising)
 - [Table of contents](#table-of-contents)
 - [Executive summary](#executive-summary)
 - [Introduction](#introduction)
@@ -27,11 +53,14 @@
 - [Reference list](#reference-list)
 - [Appendices](#appendices)
 
+<div STYLE="page-break-after: always;"></div>
+
 # Executive summary
 This report would focus on the ethical violations in the company’s products environmental advertisement, which is false statements about using environmentally friendly materials to manufacture products but they are actually not using in advertising. These violations may lead to some risks of reputation, finance and compliance, which also can cause consumers trust backlash.
 
 Such ethical breaches, often referred to as "greenwashing," can raise consumers dissatisfaction and affect harmfully to the environment. For the further development of our company, I sincerely suggest that we should take some actions to prevent these consequences happening.
 
+<div STYLE="page-break-after: always;"></div>
 
 # Introduction
 We have noticed that consumers’ demands for environmental-friendly products have been continually increasing in past years. As a large corporation established with environmental protection as our core competence, we are deeply committed to integrating sustainability into every aspect of our operations and we have a solid brand image based on the authenticity and reliability of our products. However, as the investigation of our company’s products deepens, I have found that part of the raw materials of our products are not meeting environmental standards. Which are obviously not the same as our advertisements claimed they are 100 percent environmental-friendly. Behaviors like such not only breach the principles of marketing integrity but also may cause legal risks and consumers’ trust backlash.
