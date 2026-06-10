@@ -1,0 +1,67 @@
+\documentclass[12pt]{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage[round,authoryear]{natbib}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=black,
+  citecolor=black,
+  urlcolor=blue
+}
+
+\title{\textbf{ASSESSMENT 1 -- Case Study Analysis}}
+\author{Dongju Ma \\ A1942340}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section{Human Factors Issues in This Case}
+
+\begin{enumerate}[label=\alph*)]
+  \item \textbf{Frequent pop-up trip reminders may overwhelm the user, making the system difficult to use.}
+  The reminders are intended to be a notification for emergency situations, including late for the user's flight and wrong gate. If the user could manage the trip details and get to the right location on time, the reminder should be muted for a better experience. It has been claimed that lots of notifications could reduce the user's concentration \citep{benyon2019designing}.
+
+  \item \textbf{The user should log into the system every day.}
+  This issue may burden the user, as it feels similar to an unnecessary alarm clock reminding you to go to work every day, but for a system you would not use every day. For many people, it is difficult to form a habit of doing something that is not important. This requirement could pose significant challenges to maintaining user loyalty, as discussed by \citet{oliver1999loyalty}.
+
+  \item \textbf{Using two-factor authentication for each login in the new system is also a burden to the user.}
+  Sometimes two-factor authentication can be very complicated. This authentication would send a one-time code to the user's mobile phone. When the user comes to a place with poor signal, they could not get the code and log in.
+
+  \item \textbf{Migrating all the users to the mobile system is also a human factor issue.}
+  Since we had all our users on the web system and we want them all to use the new mobile system, the action we could take is migrating the users. But to the users, they might not know that the system is replaced and they would not be able to find the new mobile system by the instructions we provide. Also, the users would spend time learning how to use the new system and getting used to it.
+\end{enumerate}
+
+\section{Ethical Issues in This Case}
+
+\begin{enumerate}[label=\alph*)]
+  \item \textbf{Tracking the user's trip data without permission is a very important ethical issue in this case.}
+  As we mentioned, the web system could send pop-up reminders to notify the user about the trip's agenda, but we did not mention how the system would know the user's trip. Is reading the data allowed by the user or not? If not, it would be a huge infringement of user privacy and the users would not know what would happen to them by reading their trip data. It has been claimed that invading user's privacy could be both personal and environmental problems \citep{floridi2013ethics}.
+
+  \item \textbf{The ads may cause infringement of user privacy too.}
+  As we all know, the advertisements could bring us a lot of revenue, but it may hurt the users by pushing them a lot of inappropriate contents, and some could be really offensive. This action should be permitted to access by the user, otherwise we are breaching the rules of privacy and consent principles. The user could sue us for this.
+
+  \item \textbf{Deleting the user data 366 days since the last login without permission is another ethical issue.}
+  The user should know our policies of data keeping and deleting. If we want to delete the data, we should let the user do it but not force it to be deleted, which is a reflection of respect for the principles of autonomy. Also, it has been claimed that users should keep their rights once they need to delete their own data \citep{nissenbaum2009privacy}.
+
+  \item \textbf{Keeping the user's phone number without permission is also an ethical issue of users' privacy.}
+  The user's phone number is just for registration and two-factor authentication, but we should ask the user for permission to send code to their mobile device. And we must promise that we would not use their phone numbers for any other purpose, including but not limited to selling the phone numbers for extra profit, sending them promotion text messages and so on. Once we get the user's full permission, we should only use the phone number as we promised.
+\end{enumerate}
+
+\section{Improvements for the Issues Above}
+
+First, we should solve some ethical issues, as we mentioned we were lacking lots of user permission. We should pop up our user privacy policy and data privacy policy after the user's very first login. If the user chooses not to give the permission, the system would automatically shut down. Next, we should cut the automatic deletion of user data after 366 days since the last login. We should make sure that all the decisions should be made by the user themselves, not us. Then, about the advertising part, my suggestion is that we should offer the user a choice to close the advertisements because not all of the users would be happy to see the advertisements. Last but not least, we should make a promise before asking users to provide their phone numbers and never break the promise.
+
+Then we could focus on the human factors. There is no need to make users log in once a year, so after we get the permissions to save the user data, we should keep it and not force the users to log in. The same applies to two-factor authentication, which should be less frequent than every login, but still for security, only make it one time for three months. We should also cut the pop-up reminders and make it a configurable settings page for users to choose their own frequencies, such as only before trip, every day, or never. Of course, it would only notify after we get the permission to read the user's data.
+
+\bibliographystyle{agsm}
+\bibliography{references}
+
+\end{document}
